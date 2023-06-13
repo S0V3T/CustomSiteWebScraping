@@ -1,0 +1,4 @@
+https://www.mynags.com.au/js/nags-1.1.1.js?20230614 - get vehicle type 
+https://www.mynags.com.au/Catalogue/GetVehicleMakes?t=car&rdmq=894727 - get types
+rdmq = str(random.randint(1, 10000000))
+https://www.mynags.com.au/Catalogue/GetCarModels?mk=AAC&rdmq=585789 - model
